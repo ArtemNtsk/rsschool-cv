@@ -20,12 +20,12 @@ Russia, Orenburg
 - JS
 - GIT
 # Code Example
-'''
+```
 function showMessage() {
 alert( 'Hello everyone! Have a nice day!' );
 }
 showMessage();
-'''
+```
 # Projects
 CV project preview
 # Github: artemntsk
