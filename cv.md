@@ -9,8 +9,8 @@ Russia, Orenburg
 - E-mail: sovets150@gmail.ru
 - Discord: Artem (@artemntsk)
 # Languages
-Russian - Native speaker
-English - A1 level
+- Russian - Native speaker
+- English - A1 level
 # Education
 - University: Saint-Petersburg Technical University
 - Courses: Rolling Scopes School. Pre-School Stage 0
@@ -19,3 +19,14 @@ English - A1 level
 - CSS
 - JS
 - GIT
+# Code Example
+'''
+function showMessage() {
+alert( 'Hello everyone! Have a nice day!' );
+}
+showMessage();
+'''
+# Projects
+CV project preview
+# Github: artemntsk
+<http://github.com/ArtemNtsk>
