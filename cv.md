@@ -1,7 +1,32 @@
 # Artem Karlin
+* Junior Frontend Developer
+# Profile
+* I learn HTML, CSS, JS. I want to be Junior Frontend Developer.
+# Location
+Russia, Orenburg
 # Contacts
-
-Location: Orenburg, Russia
-Phone: +7 922 552-82-48
-Email: sovets150@gmail.com
-GitHub: ArtemNtsk
+- Telephone: +7 922 552-82-48
+- E-mail: sovets150@gmail.ru
+- Discord: Artem (@artemntsk)
+# Languages
+- Russian - Native speaker
+- English - A1 level
+# Education
+- University: Saint-Petersburg Technical University
+- Courses: Rolling Scopes School. Pre-School Stage 0
+# Key Skills
+- HTML
+- CSS
+- JS
+- GIT
+# Code Example
+```
+function showMessage() {
+alert( 'Hello everyone! Have a nice day!' );
+}
+showMessage();
+```
+# Projects
+CV project preview
+# Github: artemntsk
+<http://github.com/ArtemNtsk>
