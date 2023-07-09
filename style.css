@@ -1,0 +1,53 @@
+h2{
+  color: Blue;
+}
+
+.pmain{
+  grid-column: 1/4; 
+  grid-row: 3/4;
+  display: grid;
+}
+
+.ptitle {
+  font-size: 20px;
+}
+
+.pfooter {
+  grid-column: 1/4; 
+  grid-row: 4/5;
+}
+
+.lfooter {
+  display: flex;
+  justify-content: start;
+}
+
+.tcontainer {
+  grid-column: 2/3; 
+  grid-row: 1/2; 
+}
+
+.pcontainer {
+  width: 420px;
+  background: Antiquewhite;
+  padding: 37px 21px 0;
+  text-align: center;
+}
+
+.icontainer{
+  grid-column: 2/3; 
+  grid-row: 1/2;
+  padding-top: 90px;
+}
+
+.code-container {
+  background-color: Azure;
+}
+
+.items {
+  list-style: none;
+}
+
+.lgith {
+  padding-left: 550px;
+}
